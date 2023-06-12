@@ -1,0 +1,1 @@
+Project MECH-BUDDIES is a comprehensive roadside assistance system designed to provide immediate support to drivers in case of emergencies or breakdowns. It offers services such as towing tire changes fuel delivery and jump-starts. The project aims to ensure the safety and convenience of motorists on the road by providing efficient and reliable roadside assistance solutions.
